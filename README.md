@@ -1,0 +1,2 @@
+# Ultrasonic-Sensor
+This research work designs and develops a noninvasive distance based user localization and tracking solution, DiLT, for smart systems. DiLT consists of a mechanical ultrasonic beam-forming design for omni-space sensing, a contrastive divergence learning to localize a user and a binary back-off algorithm to track the motion of the user. The research purpose is tracing the residents’ location in the smart home.
